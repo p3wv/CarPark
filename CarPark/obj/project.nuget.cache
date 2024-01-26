@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IdjX8GVc38DlRBm0Ix/Bpc56sYollJKHZ7ljeyMy4WCk7tArzdVopcCvh8xG4P3DGIxmiQ6rhfnkGg1W9Q6LkA==",
+  "success": true,
+  "projectFilePath": "/Users/dlaczegociasteczkochinskie/Desktop/c#/CarPark/CarPark/CarPark/CarPark.csproj",
+  "expectedPackageFiles": [
+    "/Users/dlaczegociasteczkochinskie/.nuget/packages/protobuf-net.core/3.0.101/protobuf-net.core.3.0.101.nupkg.sha512",
+    "/Users/dlaczegociasteczkochinskie/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dlaczegociasteczkochinskie/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/dlaczegociasteczkochinskie/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
